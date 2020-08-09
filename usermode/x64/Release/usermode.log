@@ -1,0 +1,6 @@
+﻿  usermode.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  usermode.vcxproj -> C:\Users\jguo5\source\repos\anti anti debug\x64\Release\usermode.exe

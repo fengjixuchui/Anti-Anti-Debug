@@ -1,0 +1,39 @@
+﻿  Building 'anti anti debug' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\antiantidebug.inf
+  Stamping [Version] section with DriverVer=08/08/2020,22.53.47.578
+  Driver.cpp
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(19,1): warning C4005: 'STANDARD_RIGHTS_ALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(5230): message : see previous definition of 'STANDARD_RIGHTS_ALL'
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(77,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(338,111): warning C4100: 'readBufferAddress': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(338,90): warning C4100: 'clientProcess': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(418,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(444,14): warning C4244: '=': conversion from 'ULONG64' to 'ULONG', possible loss of data
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(454,11): warning C4244: '=': conversion from 'ULONG64' to 'ULONG', possible loss of data
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(505,6): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'DWORD'
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(505,6): warning C4302: 'type cast': truncation from 'HANDLE' to 'DWORD'
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\Driver.cpp(38,46): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\Driver.cpp(118,39): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\Driver.cpp(124,38): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\Driver.cpp(133,78): warning C4100: 'RegistryPath': unreferenced formal parameter
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(514): warning C4715: 'getProcessByProcessId': not all control paths return a value
+C:\Users\jguo5\source\repos\anti anti debug\anti anti debug\KernelUtils.h(487): warning C4702: unreachable code
+  anti anti debug.vcxproj -> C:\Users\jguo5\source\repos\anti anti debug\x64\Release\antiantidebug.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\jguo5\source\repos\anti anti debug\x64\Release\antiantidebug.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\jguo5\source\repos\anti anti debug\x64\Release\anti anti debug\antiantidebug.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\jguo5\source\repos\anti anti debug\x64\Release\anti anti debug\antiantidebug.cat
+  
